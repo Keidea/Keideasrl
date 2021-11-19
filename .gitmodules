@@ -1,0 +1,4 @@
+[submodule "AlessandroSkab/abc_barcode_img_prodotto"]
+	path = AlessandroSkab/abc_barcode_img_prodotto
+	url = git@github.com:AlessandroSkab/abc_barcode_img_prodotto.git
+	branch = main
